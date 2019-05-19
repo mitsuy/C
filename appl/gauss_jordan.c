@@ -2,7 +2,7 @@
   Solve the inverse matrix of N*N matrix A by Gauss-Jordan Method.
   
 
-  Written by M.Yaygu  17 April, 2019
+  Written by M.Yagyu  17 April, 2019
 
   Modified by M.Yagyu 7 May, 2019
    Change how to allocate memories from static to dynamic.

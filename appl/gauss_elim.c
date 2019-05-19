@@ -17,7 +17,7 @@
   x (N-dim) is the independent variable.
 
 
-  Written by M.Yaygu  7 May, 2019
+  Written by M.Yagyu  7 May, 2019
 
  */
 
